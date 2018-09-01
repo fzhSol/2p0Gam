@@ -1,2 +1,9 @@
 /Users/fred/Desktop/projects/VSC/2p0Gam/2p0Gam/obj/x86/Debug/2p0Gam.csprojResolveAssemblyReference.cache
 /Users/fred/Desktop/projects/VSC/2p0Gam/2p0Gam/obj/x86/Debug/2p0Gam.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\bin\Debug\2p0Gam.exe.config
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\bin\Debug\2p0Gam.exe
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\bin\Debug\2p0Gam.pdb
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\obj\x86\Debug\2p0Gam.csprojAssemblyReference.cache
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\obj\x86\Debug\2p0Gam.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\obj\x86\Debug\2p0Gam.exe
+C:\Users\rober\Documents\Projects\2p0Gam\2p0Gam\2p0Gam\obj\x86\Debug\2p0Gam.pdb
