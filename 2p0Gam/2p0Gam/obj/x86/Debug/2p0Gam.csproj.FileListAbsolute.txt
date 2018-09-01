@@ -1,0 +1,2 @@
+/Users/fred/Desktop/projects/VSC/2p0Gam/2p0Gam/obj/x86/Debug/2p0Gam.csprojResolveAssemblyReference.cache
+/Users/fred/Desktop/projects/VSC/2p0Gam/2p0Gam/obj/x86/Debug/2p0Gam.csproj.CoreCompileInputs.cache

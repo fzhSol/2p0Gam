@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2p0Gam", "2p0Gam.csproj", "{08FE6566-0C47-416F-9179-EE8A3B992C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FE6566-0C47-416F-9179-EE8A3B992C7D}.Debug|x86.ActiveCfg = Debug|x86
+		{08FE6566-0C47-416F-9179-EE8A3B992C7D}.Debug|x86.Build.0 = Debug|x86
+		{08FE6566-0C47-416F-9179-EE8A3B992C7D}.Release|x86.ActiveCfg = Release|x86
+		{08FE6566-0C47-416F-9179-EE8A3B992C7D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
