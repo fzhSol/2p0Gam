@@ -7,6 +7,8 @@ namespace p0Gam
         {
             Console.WriteLine("Hi Dad");
             Console.ReadKey();
+            Console.WriteLine("Hi Fred");
+            Console.ReadKey();
         }
     }
 
